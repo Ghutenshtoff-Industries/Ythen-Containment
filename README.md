@@ -1,0 +1,2 @@
+# Ythen-Containment
+Is there a player named Ythen messing around on your Minecraft server? Probably not, but if so, then this is the solution for you! This Minecraft plugin will allow you to contain the menace of Ythen. Essentially, there is a set of togglable commands that allow you to stop the menace of Ythen in his tracks should he threaten the integrity of your Minecraft server... To see the list of commands, do /help ythencontainment Permissions: ycontainment.&lt;command name>
