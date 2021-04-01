@@ -1,0 +1,39 @@
+main: me.GhutenshtoffIndustries.YthenContainment.Main
+name: YthenContainment
+version: 1.3
+author: Ghutenshtoff
+description: Control the emerging menace of Ythen
+api-version: 1.16
+commands:
+  yfreeze:
+    description: Freezes the menace of Ythen
+    usage: /yfreeze
+    permission: ycontainment.freeze
+  ypossess:
+    description: Possesses the menace of Ythen
+    usage: /ypossess
+    permission: ycontainment.possess
+  ydeath:
+    description: Kills the menace of Ythen
+    usage: /ydeath
+    permission: ycontainment.death
+  ylightning:
+    description: Incinerates the menace of Ythen
+    usage: /ylightning
+    permission: ycontainment.lightning
+  ylag:
+    description: Lags the menace of Ythen
+    usage: /ylag
+    permission: ycontainment.lag
+  yspin:
+    description: Spins the menace of Ythen
+    usage: /yspin
+    permission: ycontainment.spin
+  yice:
+    description: Ices the menace of Ythen
+    usage: /yice
+    permission: ycontainment.ice
+  ydiorite:
+    description: Diorites the menace of Ythen
+    usage: /ydiorite
+    permission: ycontainment.diorite
